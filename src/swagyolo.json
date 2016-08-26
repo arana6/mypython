@@ -1,0 +1,1423 @@
+[
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations provinciales \u00e0 court terme", 
+              "devalue": 8.12, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 8.12, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960255, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations de soci\u00e9t\u00e9s \u00e0 court terme", 
+              "devalue": 15.01, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 15.01, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960413, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations f\u00e9d\u00e9rales \u00e0 long terme", 
+              "devalue": 8.04, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 8.04, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960095, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations f\u00e9d\u00e9rales \u00e0 moyen terme", 
+              "devalue": 7.72, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 7.72, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960411, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations provinciales \u00e0 long terme", 
+              "devalue": 17.41, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 17.41, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960149, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations de soci\u00e9t\u00e9s \u00e0 long terme", 
+              "devalue": 7.45, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 7.45, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960409, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations de soci\u00e9t\u00e9s \u00e0 moyen terme", 
+              "devalue": 5.46, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 5.46, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960079, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations provinciales \u00e0 moyen terme", 
+              "devalue": 10.03, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 10.03, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960292, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "FINB BMO obligations f\u00e9d\u00e9rales \u00e0 court terme", 
+              "devalue": 20.74, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 20.74, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960361, 
+              "order": 1
+            }
+          ]
+        }, 
+        "nameId": 1000514715, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1000897548, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 8989
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "F\u00e9d\u00e9ral", 
+              "devalue": 37.25, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 37.25, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002839015, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "Titres de soci\u00e9t\u00e9s", 
+              "devalue": 28.41, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 28.41, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002839032, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "Provincial", 
+              "devalue": 34.34, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 34.34, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002839033, 
+              "order": 1
+            }
+          ]
+        }, 
+        "nameId": 1000404821, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1001439465, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 40397625
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "count": 7569506, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Long Corp Bond ETF", 
+              "weight": 7.41, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 142682160.3, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526487, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA05571J1066", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542608, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555455, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZLC", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561966, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567797, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575442, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592101, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 142682160.3, 
+              "order": 1
+            }, 
+            {
+              "count": 6281220, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Mid Corp Bond ETF", 
+              "weight": 5.44, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 104744996.6, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526488, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA05571K1030", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542609, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555456, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZCM", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561967, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567798, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575443, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592102, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 104744996.6, 
+              "order": 1
+            }, 
+            {
+              "count": 12252473, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Mid Prov Bnd Idx ETF", 
+              "weight": 10.05, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 193384457.1, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526489, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA05576Q1054", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542610, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555457, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZMP", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561968, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567799, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575444, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592103, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 193384457.1, 
+              "order": 1
+            }, 
+            {
+              "count": 19856847, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Long Prov Bnd ETF", 
+              "weight": 17.32, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 333380575.7, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526490, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA05577K1075", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542611, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555458, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZPL", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561969, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567800, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575445, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592104, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 333380575.7, 
+              "order": 1
+            }, 
+            {
+              "count": 1, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "CASH", 
+              "weight": 0.02, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 317291.67, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526491, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555459, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "clienttaxonomyid": 1003306806, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Esp\u00e8ces et quasi-esp\u00e8ces", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567801, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "clienttaxonomyid": 1001522213, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "CASH", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592105, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 317291.67, 
+              "order": 1
+            }, 
+            {
+              "count": 8603616, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Mid Federal Bond ETF", 
+              "weight": 7.73, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 148753939.6, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526492, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA05590L1085", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542612, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555460, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZFM", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561970, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567802, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575446, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592106, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 148753939.6, 
+              "order": 1
+            }, 
+            {
+              "count": 11079336, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Short Prov Bd ETF", 
+              "weight": 8.15, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 156904448.5, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526493, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA0559751064", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542613, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555461, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZPS", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561971, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567803, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575447, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592107, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 156904448.5, 
+              "order": 1
+            }, 
+            {
+              "count": 19848914, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Short Corp Bond Etf", 
+              "weight": 15.03, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 289278072.6, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526494, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA0559761048", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542614, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555462, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZCS", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561972, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567804, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575448, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592108, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 289278072.6, 
+              "order": 1
+            }, 
+            {
+              "count": 27199874, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Short Fed Bond ETF", 
+              "weight": 20.8, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 400401185.2, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526495, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA0969111024", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542615, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555463, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZFS", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561973, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567805, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575449, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592109, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 400401185.2, 
+              "order": 1
+            }, 
+            {
+              "count": 7967313, 
+              "effectiveFrom": "2016-07-12", 
+              "creationDate": "2016-08-12", 
+              "name": "BMO Long Federal Bond ETF", 
+              "weight": 8.05, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 154962644.4, 
+              "effectiveTo": "9999-12-31", 
+              "linkedObjectId": 1001526496, 
+              "sourceDocumentId": 9513, 
+              "objectProperties": [
+                {
+                  "svalue": "CA05590K1003", 
+                  "name": "ISIN", 
+                  "order": 1, 
+                  "objectpropertyid": 1001542616, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 8737
+                }, 
+                {
+                  "svalue": "CAD", 
+                  "name": "Currency Code ISO3", 
+                  "order": 1, 
+                  "objectpropertyid": 1001555464, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40003592
+                }, 
+                {
+                  "svalue": "ZFL", 
+                  "name": "Ticker", 
+                  "order": 1, 
+                  "objectpropertyid": 1001561974, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40353206
+                }, 
+                {
+                  "clienttaxonomyid": 1000403374, 
+                  "name": "Asset Class Taxonomy Id", 
+                  "clienttaxonomyvalue": "Fixed Income", 
+                  "order": 1, 
+                  "objectpropertyid": 1001567806, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40378944
+                }, 
+                {
+                  "svalue": "CA", 
+                  "name": "Issuer ISO Country Code", 
+                  "order": 1, 
+                  "objectpropertyid": 1001575450, 
+                  "bvalue": false, 
+                  "singlecardinality": true, 
+                  "propertyid": 40385331
+                }, 
+                {
+                  "clienttaxonomyid": 1002104780, 
+                  "name": "Major Sector Class", 
+                  "clienttaxonomyvalue": "Fonds n\u00e9gociables en bourse", 
+                  "order": 1, 
+                  "objectpropertyid": 1001592110, 
+                  "bvalue": false, 
+                  "singlecardinality": false, 
+                  "propertyid": 40397625
+                }
+              ], 
+              "devalue": 154962644.4, 
+              "order": 1
+            }
+          ]
+        }, 
+        "nameId": 1000404819, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1000897379, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [
+          {
+            "name": "Number Holdings", 
+            "objectid": 1000897379, 
+            "objecttypeid": 10793, 
+            "devalue": 10.0, 
+            "order": 1, 
+            "objectpropertyid": 1000915480, 
+            "bvalue": false, 
+            "singlecardinality": true, 
+            "propertyid": 8843
+          }, 
+          {
+            "name": "Net Assets Total Value", 
+            "objectid": 1000897379, 
+            "objecttypeid": 10793, 
+            "devalue": 1974097802.0, 
+            "order": 1, 
+            "objectpropertyid": 1000915608, 
+            "bvalue": false, 
+            "singlecardinality": false, 
+            "propertyid": 8984
+          }, 
+          {
+            "name": "Fixed Income %", 
+            "objectid": 1000897379, 
+            "objecttypeid": 10793, 
+            "devalue": 99.98, 
+            "order": 1, 
+            "objectpropertyid": 1001285131, 
+            "bvalue": false, 
+            "singlecardinality": false, 
+            "propertyid": 40379663
+          }, 
+          {
+            "name": "Cash & Equivalents %", 
+            "objectid": 1000897379, 
+            "objecttypeid": 10793, 
+            "devalue": 0.02, 
+            "order": 1, 
+            "objectpropertyid": 1001590150, 
+            "bvalue": false, 
+            "singlecardinality": true, 
+            "propertyid": 40379655
+          }
+        ], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 40396727
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "Canada", 
+              "devalue": 99.98, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 99.98, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838736, 
+              "order": 1
+            }
+          ]
+        }, 
+        "nameId": 1000404820, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1000897447, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 40392197
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "AAA", 
+              "devalue": 43.12, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 43.12, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838772, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "AA", 
+              "devalue": 23.81, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 23.81, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838771, 
+              "order": 2
+            }, 
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "A", 
+              "devalue": 22.83, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 22.83, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838766, 
+              "order": 3
+            }, 
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "BBB", 
+              "devalue": 10.24, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 10.24, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838769, 
+              "order": 4
+            }
+          ]
+        }, 
+        "nameId": 791, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1000897474, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 8600
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "1-5 ans", 
+              "devalue": 43.49, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 43.49, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960004, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "5-10 ans", 
+              "devalue": 25.25, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 25.25, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000959988, 
+              "order": 2
+            }, 
+            {
+              "effectiveFrom": "2016-07-20", 
+              "creationDate": "2016-08-12", 
+              "name": "10-30 ans", 
+              "devalue": 31.27, 
+              "creationTime": "11:08:01", 
+              "sourceDocumentVersion": 1, 
+              "value": 31.27, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000959994, 
+              "order": 3
+            }
+          ]
+        }, 
+        "nameId": 1855, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1000897436, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 9029
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-07-08", 
+              "creationDate": "2016-07-13", 
+              "name": "Titres de soci\u00e9t\u00e9s", 
+              "devalue": 27.9, 
+              "creationTime": "10:49:31", 
+              "sourceDocumentVersion": 1, 
+              "value": 27.9, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002839032, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "F\u00e9d\u00e9ral", 
+              "devalue": 36.5, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 36.5, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002839015, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "Provincial", 
+              "devalue": 35.6, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 35.6, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002839033, 
+              "order": 1
+            }
+          ]
+        }, 
+        "nameId": 2563, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1000897570, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 40397736
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "AAA", 
+              "devalue": 40.1, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 40.1, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838772, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "AA", 
+              "devalue": 27.1, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 27.1, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838771, 
+              "order": 2
+            }, 
+            {
+              "effectiveFrom": "2016-07-08", 
+              "creationDate": "2016-07-13", 
+              "name": "A", 
+              "devalue": 23.0, 
+              "creationTime": "10:49:31", 
+              "sourceDocumentVersion": 1, 
+              "value": 23.0, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838766, 
+              "order": 3
+            }, 
+            {
+              "effectiveFrom": "2016-07-08", 
+              "creationDate": "2016-07-13", 
+              "name": "BBB", 
+              "devalue": 9.8, 
+              "creationTime": "10:49:31", 
+              "sourceDocumentVersion": 1, 
+              "value": 9.8, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838769, 
+              "order": 4
+            }
+          ]
+        }, 
+        "nameId": 791, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1000897583, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 40397730
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-02-18", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "1-5 ans", 
+              "devalue": 43.9, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 43.9, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000960004, 
+              "order": 1
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "5-10 ans", 
+              "devalue": 23.2, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 23.2, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000959988, 
+              "order": 2
+            }, 
+            {
+              "effectiveFrom": "2016-08-23", 
+              "creationDate": "2016-08-23", 
+              "name": "10-30 ans", 
+              "devalue": 32.9, 
+              "creationTime": "20:35:27", 
+              "sourceDocumentVersion": 1, 
+              "value": 32.9, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1000959994, 
+              "order": 3
+            }
+          ]
+        }, 
+        "nameId": 1855, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "09:55:04", 
+        "taxonomyGroupId": 1000897597, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-03", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 40397734
+      }
+    }
+  }, 
+  {
+    "data": {
+      "type": "com.kurtosys.taxonomygroup.domain.Group", 
+      "value": {
+        "effectiveFrom": "2016-03-12", 
+        "propertyIdName": "Canadian Dollar", 
+        "svalue": "", 
+        "holdingOwnerId": 1000882844, 
+        "holdings": {
+          "holdings": [
+            {
+              "effectiveFrom": "2016-04-26", 
+              "creationDate": "2016-05-26", 
+              "name": "Canada", 
+              "devalue": 100.0, 
+              "creationTime": "18:28:29", 
+              "sourceDocumentVersion": 1, 
+              "value": 100.0, 
+              "effectiveTo": "9999-12-31", 
+              "sourceDocumentId": 9513, 
+              "linkedObjectId": 1002838736, 
+              "order": 1
+            }
+          ]
+        }, 
+        "nameId": 1000404820, 
+        "holdingOwnerTypeId": 4617, 
+        "creationTime": "15:43:39", 
+        "taxonomyGroupId": 1001582726, 
+        "effectiveTo": "9999-12-31", 
+        "currencyId": 3661, 
+        "sourceDocumentId": 9513, 
+        "source": "", 
+        "objectProperties": [], 
+        "creationDate": "2016-03-12", 
+        "currencyname": "Canadian Dollar", 
+        "propertyId": 40397732
+      }
+    }
+  }
+]
